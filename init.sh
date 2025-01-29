@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # This assumes you're in a distrobox created with the following command:
-# distrobox create --image ubuntu:24.04 --name devenv
+# distrobox create --image ubuntu:24.10 --name devenv
 
 # Setup node development environment
 
